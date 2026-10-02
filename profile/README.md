@@ -15,7 +15,7 @@ If you have any questions or comments please contact us at support@openmoq.org o
 - [FFmpeg](https://github.com/openmoq/FFmpeg) - OpenMOQ fork of FFmpeg
 - [obs-studio](https://github.com/openmoq/obs-studio) - OpenMOQ fork of obs-studio
   - [openmoq-plugin](https://github.com/openmoq/openmoq-plugin) - OpenMOQ OBS Studio plugin (used by obs-studio)
-- [moq2ts](https://github.com/openmoq/moq2ts) - MPEG-2 TS to MOQ adapter
+- [moq2ts](https://github.com/openmoq/moq2ts) - MPEG-2 TS to MOQ adapter for publisher
 - [moqxr](https://github.com/openmoq/moqxr) - OpenMOQ origin publisher
 
 ## Client libraries
